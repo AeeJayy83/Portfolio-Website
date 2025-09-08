@@ -1,12 +1,93 @@
-# React + Vite
+# 🚀 Abhishek Jain - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This website showcases my skills, projects, and experience as a **Full-Stack Developer**.
 
-Currently, two official plugins are available:
+---
+## 🌟 Live Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live version of my portfolio:
+[🔗 View Portfolio](https://abhishekjain83.vercel.app/)
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Portfolio Screenshot](public/preview.png)
+
+  <br />
+  <div>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+    <img src="https://img.shields.io/badge/-Lucide Icons-FD4D4D?style=for-the-badge&logo=lucide" alt="Lucide Icons" />
+    <img src="https://img.shields.io/badge/-Radix UI-9D4EDD?style=for-the-badge&logo=data:image/svg+xml;base64..." alt="Radix UI" />
+  </div>
+  <br />
+</div>
+
+---
+
+## ⚙️ Tech Stack
+
+* **React** – Component-based UI development
+* **Vite** – Lightning-fast build tool
+* **TailwindCSS** – Utility-first CSS for styling
+* **Lucide Icons** – Clean and beautiful icon pack
+* **Radix UI** – Accessible component primitives
+* **TypeScript (optional)** – Type safety and tooling
+* **GitHub & Vercel** – Deployment
+
+---
+
+## ⚡️ Features
+
+* 🌑 **Light/Dark Mode Toggle**
+  Save theme preference in local storage with beautiful transitions
+
+* 💫 **Animated Backgrounds**
+  Stars, meteors, scroll effects, and glowing UI elements
+
+* 📱 **Responsive Navigation**
+  Desktop and mobile menus with glassmorphism
+
+* 👨‍💻 **Hero & About Sections**
+  Showcase who you are with smooth intro animations and buttons
+
+* 📊 **Skills Grid**
+  Filterable progress bars and categories with animated width
+
+* 🖼️ **Projects Showcase**
+  Display screenshots, tech stacks, and GitHub/demo links
+
+* 📩 **Contact Section**
+  Social icons + responsive contact form with toast notifications
+
+* 🚀 **One-Click Deployment**
+  Easily host your site with Vercel and GitHub
+
+---
+
+## 👌 Quick Start
+
+### Prerequisites
+
+* [Node.js](https://nodejs.org/)
+* [Git](https://git-scm.com/)
+
+### Clone and Run
+
+```bash
+git clone https://github.com/AeeJayy83/Portfolio-Website.git
+cd MyPortfolio
+npm install
+npm run dev
+```
+
+Your app will be available at: [http://localhost:5173](http://localhost:5173)
+
+---
+
+## 🔥 Contributing
+
+## Feel free to fork this repository, open issues, or submit pull requests.
+
+💙 Made with passion by **Abhishek Jain**
+
