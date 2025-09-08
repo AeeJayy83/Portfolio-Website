@@ -5,6 +5,9 @@ export const HeroSection = () => {
         <section id="hero" className="relative min-h-screen flex flex-col items-center justify-center px-4">
             <div className="container max-w-4xl mx-auto text-center z-10">
                 <div className="space-y-6">
+                    <div className="mx-auto rounded-full border-4 border-primary w-51 h-50 mb-12">
+                        <img src="/profilepic.jpg" alt="profile_pic" className="rounded-full object-cover transition-all ease-in-out duration-300 hover:shadow-[0_0_25px_rgba(168,85,247,0.8)]"/>
+                    </div>
                     <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
                         <span className="opacity-0 animate-fade-in"> Hi, I'm</span>
                         <span className="text-primary opacity-0 animate-fade-in-delay-1"> Abhishek</span>
@@ -24,7 +27,7 @@ export const HeroSection = () => {
                 </div>
             </div>
 
-            <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 flex flex-col items-center animate-bounce">
+            <div className="absolute bottom-4 left-1/2 transform -translate-x-1/2 flex flex-col items-center animate-bounce">
                 <span className="text-sm text-muted-foreground mb-2"> Scroll </span>
                 <ArrowDownIcon className="h-5 w-5 text-primary"/>
             </div>
