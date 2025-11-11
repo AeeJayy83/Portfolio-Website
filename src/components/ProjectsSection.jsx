@@ -13,11 +13,38 @@ const projects = [
     {
         id: 2,
         title: "ChatVerse",
-        description: "An AI-powered assistant, incorporating advanced features like image uploads and emoji-based responses",
+        description: "An AI-powered assistant, incorporating advanced features like image uploads and emoji-based responses.",
         image: "/projects/project2.png",
         tags: ["HTML", "CSS", "JavaScript"],
-        demoUrl: "https://virtualchatbot-f3mg.onrender.com  ",
+        demoUrl: "https://virtualchatbot-f3mg.onrender.com",
         githubUrl: "https://github.com/AeeJayy83/Virtual-Chatbot"
+    },
+    {
+        id: 3,
+        title: "Convo",
+        description: "Convo is a real-time chat application that enables users to communicate instantly and seamlessly.",
+        image: "/projects/project3.png",
+        tags: ["ReactJS", "Tailwind", "Socket.IO"],
+        demoUrl: "https://convo-lzv5.onrender.com/",
+        githubUrl: "https://github.com/AeeJayy83/Convo"
+    },
+    {
+        id: 4,
+        title: "ComponentAI",
+        description: "ComponentAI is an innovative tool designed to help developers quickly generate reusable UI components with ease.",
+        image: "/projects/project4.png",
+        tags: ["ReactJS", "Tailwind", "JavaScript"],
+        demoUrl: "https://component-ai-k1ky.onrender.com/",
+        githubUrl: "https://github.com/AeeJayy83/AI-Based-Component-Generator"
+    },
+    {
+        id: 5,
+        title: "MultiTask AI",
+        description: "MultiTask AI is a versatile AI-powered SaaS application built to help users generate blog titles, articles, and review resume.",
+        image: "/projects/project5.png",
+        tags: ["ReactJS", "Tailwind", "Postgres", "NodeJS"],
+        demoUrl: "https://multitask-ai.vercel.app",
+        githubUrl: "https://github.com/AeeJayy83/AI-SaaS-App"
     },
 
 ]
